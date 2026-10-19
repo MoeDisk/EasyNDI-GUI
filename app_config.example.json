@@ -1,0 +1,8 @@
+{
+  "analysis_x64_dir": "C:\\Program Files\\NDI\\NDI 6 Analysis\\x64",
+  "ndi_tools_dir": "C:\\Program Files\\NDI\\NDI 6 Tools",
+  "analysis_find_seconds": 15,
+  "analysis_source_seconds": 120,
+  "deep_scan_run_analysis_find": false,
+  "language": "zh"
+}
