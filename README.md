@@ -2,7 +2,7 @@
 
 面向 NDI 的桌面工具：网卡筛选、来源扫描、内置预览（OSD / 音频 dB）、清晰度探测，以及 NDI Analysis / Tools 快捷入口。
 
-![界面截图](docs/screenshot.png)
+![界面截图](docs/screenshot.jpg)
 
 ## 环境
 
